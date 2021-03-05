@@ -1,0 +1,23 @@
+{
+  "name": "s3-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapiwakanda/s3-upload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tapiwakanda/s3-upload/issues"
+  },
+  "homepage": "https://github.com/tapiwakanda/s3-upload#readme",
+  "dependencies": {
+    "aws-sdk": "^2.857.0"
+  }
+}
